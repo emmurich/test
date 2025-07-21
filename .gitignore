@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.log
+*.lastbuildstate
+*.cache
+*.db
+*.VC.db
+*.VC.opendb
+
+# Other
+*.log
+*.tmp
+*.bak
+*.swp
+*.sdf
+*.scc
+*.ilk
+*.pch
+*.res
+*.dll
+*.lib
+*.exp
+*.o
+*.gch
+*.pyc
+*.class
+*.DS_Store
+Thumbs.db 
